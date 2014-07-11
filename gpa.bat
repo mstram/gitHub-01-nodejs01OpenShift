@@ -1,0 +1,1 @@
+git remote add nodejs01 git@github.com:mstram/nodejs01OpenShift.git
